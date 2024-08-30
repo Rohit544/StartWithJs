@@ -51,7 +51,14 @@ for(var car of cars){
 
 //how to declare of call the function in js 
 function greet(){
-    console.log("hello we are in functin")
+    console.log("hello we are in function")
 }
 
 greet()
+
+//how to declare parameters in function  in js 
+function add(a , b){
+    console.log(a+b)
+}
+
+add(34,1)
