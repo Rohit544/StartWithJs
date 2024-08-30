@@ -68,7 +68,8 @@ add(34,1)
 // console.log(a)
 
 var sum = function (a,b){
-    console.log(a+b)
+    // console.log(a+b)
+    return a+b
 }
 
 add(2,5)
