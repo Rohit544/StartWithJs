@@ -47,3 +47,11 @@ var cars = ['audi','BMW','tata safari','jaguar']
 for(var car of cars){
     console.log(car)
 }
+
+
+//how to declare of call the function in js 
+function greet(){
+    console.log("hello we are in functin")
+}
+
+greet()
