@@ -27,3 +27,19 @@ var colors = {
 for(color in colors){
     console.log(color+ ' -> ' + colors[color])
 }
+
+//with array print for in loop
+var colorarr = ['green','blue','white']
+
+for(color in colorarr){
+    console.log(color[colorarr])
+}
+
+
+
+//with array fprint for of loop 
+var cars = ['audi','BMW','tata safari','jaguar']
+
+for(var car of cars){
+    console.log(car)
+}
