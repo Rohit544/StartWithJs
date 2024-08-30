@@ -74,3 +74,10 @@ var sum = function (a,b){
 
 add(2,5)
 
+// in this how to use let and  const key word 
+if(true){
+    let c = 30
+    console.log(c)
+}
+
+console.log(c)
