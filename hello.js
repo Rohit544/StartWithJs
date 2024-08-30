@@ -1,3 +1,7 @@
+//how to create or declare al variable 
+var a = 2
+console.log(a)
+
 var a = ['hello world',12.2,23,44,true]
 
 console.log(a)
