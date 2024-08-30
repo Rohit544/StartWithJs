@@ -76,8 +76,11 @@ add(2,5)
 
 // in this how to use let and  const key word 
 if(true){
-    let c = 30
-    console.log(c)
+    let g = 30
+    console.log(g)
 }
+// console.log(g)
 
-console.log(c)
+//to use a const keyword not redeclare it holds the constant value in var 
+const d = 45;
+console.log(d)
