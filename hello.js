@@ -62,3 +62,14 @@ function add(a , b){
 }
 
 add(34,1)
+
+//how to use function with expression 
+// var a = 2 + 4
+// console.log(a)
+
+var sum = function (a,b){
+    console.log(a+b)
+}
+
+add(2,5)
+
