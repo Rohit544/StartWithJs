@@ -91,6 +91,7 @@ let arrowfun = ()=>{
     console.log("we are inside the hello function")
 }
 
+//
 const vale = 5
 const valeSqare = vale*vale
 
