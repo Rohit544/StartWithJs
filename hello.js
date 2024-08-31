@@ -84,3 +84,10 @@ if(true){
 //to use a const keyword not redeclare it holds the constant value in var 
 const d = 45;
 console.log(d)
+
+
+//let's create an arrow functions 
+let arrowfun = ()=>{
+    console.log("we are inside the hello function")
+}
+
