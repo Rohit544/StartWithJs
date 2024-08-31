@@ -91,3 +91,18 @@ let arrowfun = ()=>{
     console.log("we are inside the hello function")
 }
 
+const vale = 5
+const valeSqare = vale*vale
+
+let isEven
+
+if (valeSqare % 2 == 0) {
+    isEven = false
+}else{
+    isEven = false
+}
+
+console.log(isEven)
+
+
+
